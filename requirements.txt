@@ -1,0 +1,61 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Agent orchestration
+langgraph
+
+# Groq LLM
+langchain-groq
+
+# Tavily web search
+langchain-tavily
+tavily-python
+
+# Hugging Face embeddings
+langchain-huggingface
+sentence-transformers
+
+# Web scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment variables
+python-dotenv
+
+# Data validation / schemas
+pydantic
+
+# HTTP / async support
+httpx
+aiohttp
+
+# Numerical operations
+numpy
+
+
+langchain-text-splitters
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langgraph
+langchain-groq
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+tavily-python
+beautifulsoup4
+requests
+python-dotenv
+pydantic
+rich
+
+streamlit
+torch 
+torchvision
+transformers
+sentence-transformers
