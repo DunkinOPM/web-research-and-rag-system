@@ -111,7 +111,7 @@ By combining **LangChain Agents**, **Groq LLM Inference**, **Tavily Web Search**
 ## 📁 Project Structure
 
 ```bash
-multi-agent-rs/
+AI-Powered Web Research & RAG System/
 │
 ├── app.py              # Streamlit dashboard interface
 ├── pipeline.py         # End-to-end research orchestrator execution flow
